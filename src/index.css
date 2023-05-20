@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  font-family: Serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: Helvetica Now;
+}
+
+#barra {
+  margin: 1rem;
+  padding: 1rem;
+  text-align: center;
+  background-color: none;
+}
+#enlace { text-decoration: none; 
+  color: black;
+  margin-right: 2rem;
+  font-size: 140%;
+  font-family: Arial;
+  font-style: bold;
+}
+.title{
+  text-align: center;
+  margin: 1rem;
+
+}
